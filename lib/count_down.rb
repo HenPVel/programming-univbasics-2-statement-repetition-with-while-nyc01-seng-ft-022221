@@ -1,6 +1,6 @@
 # Write your code here
-countdown=10
-while countdown < 11 && countdown > 0 do
-  puts "#{countdown}"
-  countdown -= 1
+count=10
+while count < 11 && count > 0 do
+  puts "#{count}"
+  count -= 1
 end
